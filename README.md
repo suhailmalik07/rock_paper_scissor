@@ -2,4 +2,4 @@
 Rock papers scissor game. Used HTML, CSS, JavaScript.
 
 # Screenshot
-![Image of game](https://imgur.com/WbKiG2S)
+![Imgur](https://i.imgur.com/PopDfDl.png)
